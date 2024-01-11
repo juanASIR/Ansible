@@ -8,3 +8,5 @@ Ansible se distribuye en Fedora, Red Hat enterprise Linux, CentOS y Scientific L
 
 También está disponible para MAC, pero no para Windows, aunque podemos usarlo en máquinas virtuales.
 
+![que es](https://media.geeksforgeeks.org/wp-content/uploads/20210707181607/AnsibleBG.png)
+
