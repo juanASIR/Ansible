@@ -10,9 +10,9 @@
 
 ## [4. Los competidores](competidores.md)
 
-## 5. Arquitectura y componentes. 
+## [5. Arquitectura y componentes](arquitectura.md) 
 
 ## Referencias
   * GitHub
   * OpenWebinars
-  * 
+  * formadoresit.es
