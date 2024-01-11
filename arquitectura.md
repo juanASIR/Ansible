@@ -1,4 +1,4 @@
-## *Arquitectura*
+## *Arquitectura y Componentes*
 ![arquitectura](https://www.silcom.com.pe/images/ansible2.png)
 
 La arquitectura de Ansible se basa en un enfoque de agenteless (sin agente) y utiliza un modelo de comunicación push (empuje). A continuación, se describen los componentes clave de la arquitectura de Ansible:
@@ -33,5 +33,15 @@ Ansible recopila información sobre los nodos gestionados, como el sistema opera
 
 Los facts pueden utilizarse en los playbooks para tomar decisiones basadas en la información del sistema.
 
-## *Componentes*
+7. **Roles**:
+
+Son conjuntos de ficheros y tareas parecidos sobre un determinado grupo de hosts. Algunos de los roles más habituales son el webserver, el nginx o el dbserver. 
+
+8. **Files**:
+
+Es el directorio donde se almacenan los ficheros que queremos copiar en los hosts que pertenecen a un determinado rol.
+
+9. **Task**:
+
+Es el fichero del directorio donde definimos las tareas que queremos ejecutar en los hosts que pertenecen a ese determinado rol. El objetivo de cada tarea es ejecutar un módulo, y debe contar con un “name” que será incluido a la hora de programar la operación. 
 
