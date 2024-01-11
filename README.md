@@ -6,7 +6,7 @@
 
 ## [2. ¿Qué es Ansible?](ansible.md) 
 
-## 3. Características de Ansible 
+## [3. Características de Ansible](caracteristicas.md) 
 
 ## 4. Los competidores. 
 
