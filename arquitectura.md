@@ -32,3 +32,6 @@ Ansible utiliza SSH para conectarse a los nodos gestionados y ejecutar los módu
 Ansible recopila información sobre los nodos gestionados, como el sistema operativo, la arquitectura del hardware, las interfaces de red, etc. Estos detalles se almacenan en variables llamadas "facts".
 
 Los facts pueden utilizarse en los playbooks para tomar decisiones basadas en la información del sistema.
+
+## *Componentes*
+
