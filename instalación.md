@@ -12,7 +12,7 @@
 
 Una vez tenemos las MV instaladas procedemos a su instalación-
 
-## Preparación del Anfitrión
+### Preparación del Anfitrión
 
 1. ***Comprobamos si tenemos instalado SSH y Phtyon***
 ```
