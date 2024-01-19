@@ -76,6 +76,7 @@ En primer lugar cambiaremos el nombre del equipo, para que no haya confusiones, 
 Tras esto, nos vamos al archivo de configuración de ssh y permitimos el login del root.
 
 ![8](/Imagenes/8.PNG)
+
 ![9](/Imagenes/9.PNG)
 
 Reiniciamos ssh, y si queremos para evitar confusiones podemos cambiar la contraseña con el último comando.
