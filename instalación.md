@@ -14,7 +14,7 @@ Una vez tenemos las MV instaladas procedemos a su instalación-
 
 ### Preparación del Anfitrión
 
-1. ***Comprobamos si tenemos instalado SSH y Phtyon***
+***1. Comprobamos si tenemos instalado SSH y Phtyon***
 ```
 sudo apt update
 sudo apt upgrade
