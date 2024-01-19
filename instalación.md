@@ -82,3 +82,27 @@ Tras esto, nos vamos al archivo de configuración de ssh y permitimos el login d
 Reiniciamos ssh, y si queremos para evitar confusiones podemos cambiar la contraseña con el último comando.
 
 ![11](/Imagenes/11.PNG)
+
+***4. Creación claves para conexión ssh***
+
+Creamos una llave pública para poder conectarnos con los equipos remotos sin tener que poner las contraseñas cada vez que queramos conectarnos.
+
+```
+ssh-keygen
+cd .ssh
+ssh-copy-id -i id_rsa.pub root@Ip_EquipoRemoto
+ssh root@1Ip_EquipoRemoto
+
+```
+
+Generamos una claves pública y una privada, esta clave pública la utilizaremos para poder acceder a equipos remotos sin tener que poner la contraseña cada vez que querramos conectarnos. También hay que tener cuidado, pues un mal uso, permite acceso directo al servidor.
+
+![12](/Imagenes/12.PNG)
+
+Una vez generadas las claves, la copiamos en el equipo remoto via ssh. Las claves se encuentran en .ssh
+
+![13](/Imagenes/13.PNG)
+
+Y por último comprobamos que podemos acceder al equipo remoto sin necesidad de poner la contraseña.
+
+![14](/Imagenes/14.PNG)
