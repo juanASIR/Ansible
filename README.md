@@ -12,6 +12,8 @@
 
 ## [5. Arquitectura y componentes](arquitectura.md) 
 
+## [6. Instalación](instalación.md)
+
 ## Referencias
   * GitHub
   * OpenWebinars
