@@ -27,6 +27,7 @@ sudo apt install openssh-server
 ![1](/Imagenes/1.PNG)
 
 ***2. Instalación Ansible***
+
 Accedemos como superusuario.
 
 ```
