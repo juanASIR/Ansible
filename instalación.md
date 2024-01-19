@@ -85,7 +85,7 @@ Reiniciamos ssh, y si queremos para evitar confusiones podemos cambiar la contra
 
 ***4. Creación claves para conexión ssh***
 
-Creamos una llave pública para poder conectarnos con los equipos remotos sin tener que poner las contraseñas cada vez que queramos conectarnos.
+Creamos una clave pública para poder conectarnos con los equipos remotos sin tener que poner las contraseñas cada vez que queramos conectarnos.
 
 ```
 ssh-keygen
