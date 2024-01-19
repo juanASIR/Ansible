@@ -24,4 +24,4 @@ sudo apt policy ssh
 sudo apt install openssh-server
 
 ```
-![sshphyton](\2ASIR\HLC\2Tri\5. Ansible\Tarea\Imagenes\1.png)
+
