@@ -5,3 +5,4 @@
 * Cada dispositivo tiene que estar actualizado y con ***SSH*** instalado.
 * ***Ansible*** ¡¡ SOLO SE INSTALARÁ EN EL ANFITRIÓN !!
 * Las ***claves públicas y privadas*** se generarán en el *** Anfitrión***.
+* En VirtualBox, red en ***modo puente*** y el modo promiscuo permitiendo todo, y en este trabajo ***IP DINÁMICA***.
