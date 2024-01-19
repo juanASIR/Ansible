@@ -24,4 +24,4 @@ sudo apt policy ssh
 sudo apt install openssh-server
 
 ```
-Imagenes/1.PNG
+Ansible/Imagenes/1.PNG
